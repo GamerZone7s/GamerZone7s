@@ -21,7 +21,7 @@
 
 ## 📝 Latest Projects
 - [JoinGear Plugin](https://github.com/GamerZone7s/JoinGear)
-- [Your Next Project]
+- [coming soon Next Project]
 
 ## 🌐 Let's Connect
 - [YouTube Channel](https://youtube.com/@gamerzone7s?si=41OWGYCjJHz_fiq4)
