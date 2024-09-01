@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Saurabh (aka GamerZone7s) 👋
 
-<!--
-**GamerZone7s/GamerZone7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎮 Minecraft plugin developer
+- 💻 Passionate about coding and creating unique gaming experiences
+- 🌱 Currently learning advanced plugin development for PocketMine-MP
+- 📫 How to reach me: [Your Email or Social Media Links]
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- 💻 **Languages:** PHP, JavaScript
+- 🛠️ **Tools:** PocketMine-MP, Spck Editor, Dcoder
+- 📦 **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 🛠️ Developed multiple custom plugins for Minecraft
+- 🎥 Started a YouTube channel for plugin tutorials and gameplays
+- 🚀 Successfully submitted and published my first plugin [JoinGear](https://pmmp.io/) on PMMP
+
+## 📈 GitHub Stats
+![GamerZone7s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamerZone7s&show_icons=true&theme=radical)
+
+## 📝 Latest Projects
+- [JoinGear Plugin](https://github.com/GamerZone7s/JoinGear)
+- [Your Next Project]
+
+## 🌐 Let's Connect
+- [YouTube Channel](https://youtube.com/@gamerzone7s?si=41OWGYCjJHz_fiq4)
+
+Thanks for visiting my profile! 😄
