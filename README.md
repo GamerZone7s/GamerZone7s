@@ -4,11 +4,11 @@
 - 🎮 Minecraft plugin developer
 - 💻 Passionate about coding and creating unique gaming experiences
 - 🌱 Currently learning advanced plugin development for PocketMine-MP
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: [gamerzone7s.official@gmail.com]
 
 ## 🔧 Technologies & Tools
-- 💻 **Languages:** PHP, JavaScript
-- 🛠️ **Tools:** PocketMine-MP, Spck Editor, Dcoder
+- 💻 **Languages:** PHP, JavaScript , HTML , CSS 
+- 🛠️ **Tools:** PocketMine-MP, Spck Editor,
 - 📦 **Version Control:** Git & GitHub
 
 ## 🏆 Achievements
